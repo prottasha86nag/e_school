@@ -1,2 +1,2 @@
 # e_school
-figma to html
+https://prottasha86nag.github.io/e_school/
