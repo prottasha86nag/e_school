@@ -1,0 +1,18 @@
+
+font-family:
+Rubik 700
+Poppins 400, 700, 500
+Roboto 400
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+
+
+color:
+#000 black
+#21B573 green
+#56548C blue
+#FD511A red
+
+common-
